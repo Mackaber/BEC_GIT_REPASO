@@ -1,0 +1,8 @@
+# Estatus del repositorio
+git init # Inicializa el repositorio
+git status # Nos indica el estatus del repositorio
+git log # Historial de todos los cambios
+
+# Control de versiones
+
+git add # Mover archivos al apartado de staging
