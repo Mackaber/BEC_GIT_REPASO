@@ -6,3 +6,4 @@ git log # Historial de todos los cambios
 # Control de versiones
 
 git add # Mover archivos al apartado de staging
+git commit -m "Mensaje de commit" # Confirmar los cambios
