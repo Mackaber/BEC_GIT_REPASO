@@ -18,5 +18,5 @@ git checkout "Nombre de la rama" # Cambiarse de rama
 git checkout -b "Nombre de la rama" # Crea la rama y se cambia a ella
 
 # Unir ramas
-git merge "Rama destino" 
-git rebase "Rama de origen"
+git merge "Rama destino" # Usualmente se usa para integrar cambios en la rama principal
+git rebase "Rama de origen" # Usualmente se usa para actualizar la rama en la trabajamos
