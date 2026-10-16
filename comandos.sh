@@ -9,4 +9,4 @@ git commit -m "Mensaje de commit" # Confirmar los cambios
 
 # Control entre repositorios remotos (Github)
 git push
-git pull
+git pull # Obtiene los últimos cambios del repositorio
