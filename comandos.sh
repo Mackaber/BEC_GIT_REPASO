@@ -14,3 +14,9 @@ git pull # Obtiene los últimos cambios del repositorio
 # Control de ramas
 git branch "Nombre de la rama" # Crear una nueva rama
 git checkout "Nombre de la rama" # Cambiarse de rama
+# o
+git checkout -b "Nombre de la rama" # Crea la rama y se cambia a ella
+
+# Unir ramas
+git merge "Rama destino" 
+git rebase "Rama de origen"
